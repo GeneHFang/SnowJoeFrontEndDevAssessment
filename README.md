@@ -21,7 +21,7 @@ npm run lint
 ```
 
 ### Format for questions.json file
-This application expects a .json quiz questions file in the following format:
+This application expects in the root directory a `questions.json` quiz questions file in the following JSON format:
 
 ```
 {
