@@ -1,4 +1,4 @@
-# quizapplication
+# Snow Joe Front End Dev Assessment by Gene H Li Fang
 
 ## Project setup
 ```
@@ -47,3 +47,4 @@ This application expects a .json quiz questions file in the following format:
 
 `"answer"` must match one of the elements in `"options"` exactly.
 
+An example `questions.json` file is included in the repository.
